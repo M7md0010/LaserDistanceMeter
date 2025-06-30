@@ -45,11 +45,6 @@ You can use [Fritzing](https://fritzing.org/) to make a clean schematic if neede
 
 ---
 
-## 📷 Demo
-*(Insert GIF/video if available — it’ll elevate the project instantly)*
-
----
-
 ## 📜 License
 MIT – Feel free to build on this!
 
