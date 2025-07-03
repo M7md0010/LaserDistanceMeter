@@ -25,7 +25,7 @@ A real-time distance measurement project using the **VL53L0X Time-of-Flight sens
 ---
 
 ## 🚀 How to Use
-1. Upload both `EyeReaderTransmitter.ino` and `EyeReaderReceiver.ino` to their respective ESP32 boards.
+1. Upload `LaserDistanceMeter.ino` to the ESP32 board.
 2. Connect to the Wi-Fi SSID: `RemoteXY` (Password: `12345678`)
 3. Open RemoteXY app (port: 6377) to monitor values.
 4. Press the button to record distance snapshots.
