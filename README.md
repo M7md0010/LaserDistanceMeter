@@ -24,12 +24,6 @@ A real-time distance measurement project using the **VL53L0X Time-of-Flight sens
 
 ---
 
-## 🔌 Circuit Diagram
-*(Insert “Receiver Circuit.jpg” and “Transmitter Circuit.jpg” here)*  
-You can use [Fritzing](https://fritzing.org/) to make a clean schematic if needed.
-
----
-
 ## 🚀 How to Use
 1. Upload both `EyeReaderTransmitter.ino` and `EyeReaderReceiver.ino` to their respective ESP32 boards.
 2. Connect to the Wi-Fi SSID: `RemoteXY` (Password: `12345678`)
